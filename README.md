@@ -1,4 +1,4 @@
-![logo](http://localboost.heycrab.xyz/mongoaura-staticals/images/colorful_logo.png)
+![logo](http://qd2.mossfrp.cn/mongoaura-staticals/images/colorful_logo.png)
 # MongoAura
 一个免费、轻量级、SaaS化的优秀 MongoDB 数据库阅览器
 ## 你还在为...？
